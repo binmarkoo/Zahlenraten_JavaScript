@@ -1,0 +1,9 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+.dark-mode {
+    background-image: url('background2.jpg');   /* Wollte keinen "langweiligen" Darkmode machen, deshalb ein Bild*/
+    color: white;
+}
